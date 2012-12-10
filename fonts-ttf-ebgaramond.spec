@@ -49,3 +49,10 @@ ttmkfdir %{buildroot}%{_xfontdir}/TTF/ebgaramond -o %{buildroot}%{_xfontdir}/TTF
 %verify(not mtime) %{_datadir}/fonts/TTF/ebgaramond/fonts.dir
 %{_xfontdir}/TTF/ebgaramond/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-ebgaramond:pri=50
+
+
+%changelog
+* Mon Aug 13 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.014e-1
++ Revision: 814504
+- imported package fonts-ttf-ebgaramond
+
