@@ -3,7 +3,7 @@
 Name:		fonts-ttf-ebgaramond
 Summary:	A revival of Claude Garamont’s famous humanist typeface
 Version:	0.014e
-Release:	1
+Release:	2
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://www.georgduffner.at/ebgaramond/index.html
