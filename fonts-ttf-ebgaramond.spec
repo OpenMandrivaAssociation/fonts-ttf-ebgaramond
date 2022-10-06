@@ -2,12 +2,12 @@
 
 Name:		fonts-ttf-ebgaramond
 Summary:	A revival of Claude Garamont’s famous humanist typeface
-Version:	0.014e
-Release:	2
+Version:	0.016
+Release:	1
 License:	OFL
 Group:		System/Fonts/True type
 URL:		http://www.georgduffner.at/ebgaramond/index.html
-Source0:	https://github.com/downloads/georgd/EB-Garamond/%{pkgname}-%{version}.zip
+Source0:	https://bitbucket.org/georgd/eb-garamond/downloads/EBGaramond-%{version}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
 BuildRequires:	dos2unix
