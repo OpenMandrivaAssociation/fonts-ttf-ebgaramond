@@ -6,7 +6,7 @@ Version:	0.016
 Release:	1
 License:	OFL
 Group:		System/Fonts/True type
-URL:		http://www.georgduffner.at/ebgaramond/index.html
+URL:		https://www.georgduffner.at/ebgaramond/index.html
 Source0:	https://bitbucket.org/georgd/eb-garamond/downloads/EBGaramond-%{version}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
